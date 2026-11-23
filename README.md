@@ -40,7 +40,7 @@ The dataset used in this project contains job-market information for Data Analys
 
 Due to its large file size, the dataset is hosted externally.
 
-**Download Dataset:** [Click here to download the dataset]([PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/file/d/1QGAzHjmK-1g5DYDFNEJYhutFPkyp3-0a/view?usp=sharing))
+**Download Dataset:** [Click here to download the dataset]https://drive.google.com/file/d/1QGAzHjmK-1g5DYDFNEJYhutFPkyp3-0a/view?usp=sharing
 
 After downloading, place the CSV file in the project directory before running the notebooks.
 
